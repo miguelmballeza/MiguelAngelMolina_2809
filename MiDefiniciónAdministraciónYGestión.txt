@@ -1,0 +1,16 @@
+Para mi la administración es un proceso donde se planea, organiza, ejecuta y controla ( en ese orden )
+un conjunto de actividades para poder cumplir con ciertos objetivos estipulados con anterioridad.
+
+Mientras que la gestión es un proceso que únicamente se encarga de la realización de una actividad o
+una clasificación de este conjunto de actividad en específico, más no un conjunto de actividades de 
+diferente indole como en el caso de la administración, realización entiendase como la ejecución 
+y control, retomando los conceptos clave antes mencionados.
+
+Dicho lo anterior, podemos remarcar que la administración puede y debe encargarse de los 4 pilares
+mencionados anteriormente ( planear, organizar, ejecutar y controlar ) en diferentes clasificaciones
+de conjunto de actividades, por ejemplo, las empresas estan compuestas por multiples áreas de trabajo
+la adminsitración recae sobre cada una de ellas.
+Mientras que la gestión solamente se encarga de 2 de los pilares ( ejecución y control ) 
+de UNA SOLA clasificación de conjunto de actividades, por ejemplo, lo mencionado en clase con el
+SGBD ó DBMS, que se encarga de todo lo relacionado a la Base de Datos, la generación de tablas,
+registros, etc.
