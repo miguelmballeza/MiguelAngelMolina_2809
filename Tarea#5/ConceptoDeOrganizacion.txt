@@ -1,0 +1,19 @@
+Después de Investigar la definición en mis apuntes y en fuentes externas, el concepto de Organización enfocada
+a Organización y Administración de Centros de Cómputo es uno de los pilares fundamentales de la 
+Administración, que junto con Planeación ( prevención para Fayol ), Ejecución ( Comandar y Coordinar
+para Fayol ) y Control, forman lo que es la Administración en aplicación a su objeto de estudio,
+es decir, las Organizaciones con objetivos específicos, por eso, la Organización es fundamental
+para una Empresa u Organización (por como se le puede llamar también) ya que es la Sintesís de nuestro
+Análisis previo de nuestra empresa, una vez particionadas las cosas, lo que hacemos es juntarlas con
+las conclusiones obtenidas para nuestro propio beneficio.
+
+De lo anteriormente visto, la planeación en un centro de computo (como primer paso), recae en la 
+Estrategía, Recursos, Operación, Insfraestructura ó Instalaciones Físicas y del Recurso Humano o Personal,
+
+El ejemplo de Organización en un Data Center o Centro de Cómputo sería el de la propia planeación operativa
+puesta en marcha, dado que se realiza un análisis detallado de las necesidades de la empresa para el 
+desarrollo de la plataforma tecnológica de la misma con insfraestructura a nível de HW, SW y de Personal
+Operativo, entonces la síntesis de ese análisis, sería el poner las cartas sobre la mesa y comenzar
+a desarrollar esa plataforma que se requiere, ya sea de forma artística (con puro conocimiento eḿpírico)
+o ya sea de forma científica (a través del uso de técnicas y procedimientos bien pensados e intencionados)
+llevemos acabo la Organización para el Desarrollo de la misma plataforma tecnológica. 
