@@ -1,0 +1,13 @@
+Firma inicial con 1:
+3941200a8b06b1188ca49fa1cb02f87adc162b3e
+
+Firma con el cambio con 1:
+624183cb499995f612fad693dba4bf76c512a399
+
+
+
+Firma inicial con 256:
+8e0355172e0eb25ae0fc40a3bbce8bdd850fa8b01624c098907d9cd7d8e0f690
+
+Firma con el cambio con 256:
+4f5923f020cb2ef00dd195115536aa6fa6f4c259739ea6e31edc169da879d2c8
